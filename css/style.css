@@ -169,5 +169,25 @@
 }
 /*fine main-4*/
 
+/*inzio main-5*/
+.container-main-5{
+    width: 100%;
+    height: 710px;
+    background-color: lightgray;
+}
+
+.row-main-5{
+    display: flex;
+    justify-content: center;
+}
+
+.col-main-5{
+    background-color: rgba(34,139,34,255);
+    height: 650px;
+    width:50%;
+    margin-top: 30px;
+    border-style: dashed;
+}
+/*fine main-5*/
 
 /*fine main*/
